@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sahanaumesh07/Tailspin%20web%20game/_apis/build/status/sahanasu93.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/sahanaumesh07/Tailspin%20web%20game/_build/latest?definitionId=21&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
