@@ -65,7 +65,7 @@ steps:
   inputs:
       command: publish
       publishWebProjects: false
-      projects: '**/*.Tests.csproj'
+      projects: '**/*.csproj'
       arguments: '-o testpath'
       zipAfterPublish: false
       modifyOutputPath: true
